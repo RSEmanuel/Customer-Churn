@@ -1,2 +1,2 @@
-# Customer-Churn
+# Customer - Churn
 Predicting customer churn
