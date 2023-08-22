@@ -1,9 +1,7 @@
 # Customer - Churn
-The objective of this work is to carry out a process of analysis, data cleaning and data transformation, which will allow us to develop an adequate model to support customer retention proposals.
+The objective of this work is to carry out a process of analysis, data cleaning, and data transformation, which will allow us to develop an adequate model to support customer retention proposals.
 # Problem Statement
-You are being provided with the Telco Customer Churn data from the Kaggle IBM Sample Datasets. You are required to create a Python model to predict customer churn as well as proposing 5 client retention programs to increase engagement.
-
-You will have 10 minutes to present your findings and you can use any tool of your preference: Powerpoint, Jupyter Notebooks, Deepnote, GoogleColab, etc.
+With provided Telco Customer Churn data from the Kaggle IBM Sample Datasets, I create a Python model to predict customer churn as well as proposed some previous analyses to better understand the dataset.
 # Data
  Markup : 
  * customerID: Customer ID
@@ -21,7 +19,7 @@ You will have 10 minutes to present your findings and you can use any tool of yo
 * TechSupport: Whether the customer has tech support or not (Yes, No, No internet service)
 * StreamingTV: Whether the customer has streaming TV or not (Yes, No, No internet service)
 * StreamingMovies: Whether the customer has streaming movies or not (Yes, No, No internet service)
-* Contract: The contract term of the customer (Month-to-month, One year, Two year)
+* Contract: The contract term of the customer (Month-to-month, One year, Two years)
 * PaperlessBilling: Whether the customer has paperless billing or not (Yes, No)
 * PaymentMethod: The customer’s payment method (Electronic check, Mailed check, Bank transfer (automatic), Credit card (automatic))
 * MonthlyCharges: The amount charged to the customer monthly
